@@ -1,6 +1,3 @@
-# CLangProjectDumps
-It's all going to be about my programming journey with the low level language (C)👾👾👾
-
 ## [1] Learing about Algorithms
 > Learning about algorithms (sort, search, delete, update, insert and so on)
 
