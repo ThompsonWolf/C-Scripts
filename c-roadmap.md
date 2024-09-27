@@ -5,69 +5,119 @@
 > Basics of C Programming
 
 > Introduction to C
+
 > History and evolution of C
+
 > Setting up the development environment (IDE or text editor, compiler)
+
 > Basic syntax and structure of a C program
+
 > Writing and compiling your first C program (e.g., “Hello, World!”)
+
 > Data Types and Variables
-Primitive data types (int, char, float, double)
-Declaring and initializing variables
-Constants and literals
-Operators and Expressions
-Arithmetic operators
-Relational and logical operators
-Assignment operators
-Increment and decrement operators
-Type casting
+
+> Primitive data types (int, char, float, double)
+
+> Declaring and initializing variables
+
+> Constants and literals
+
+> Operators and Expressions
+
+> Arithmetic operators
+
+> Relational and logical operators
+
+> Assignment operators
+
+> Increment and decrement operators
+
+> Type casting
 
 
 
-Phase 2: Control Structures
+## Phase 2: 
+
+Control Structures
+
 Conditional Statements
+
 if, if-else, and nested if-else
+
 switch statement
+
 Loops
+
 for loop
+
 while loop
+
 do-while loop
+
 Nested loops
+
 Control Flow
+
 break and continue statements
+
 goto statement
 
-Phase 3: Functions
+## Phase 3: 
+
+Functions
+
 Introduction to Functions
+
 Function declaration and definition
+
 Calling functions
+
 Return values and void functions
+
 Parameter Passing
+
 Passing arguments by value
+
 Scope and lifetime of variables
 
-Phase 4: Advanced Topics
+
+## Phase 4: (Advanced Topics)
+
 Pointers
+
 Understanding pointers and memory addresses
+
 Pointer arithmetic
+
 Pointers and arrays
+
 Pointers to functions
+
 Structures and Unions
+
 Defining and using structures
+
 Nested structures
+
 Unions
+
 File Handling
+
 Reading from and writing to files
+
 File modes and operations
+
 Dynamic Memory Allocation
+
 malloc, calloc, realloc, and free functions
 
-Practice and Projects
-Solve problems on platforms like LeetCode and HackerRank
-Work on small projects to apply what you’ve learned
-Use debugging tools like gdb and valgrind to find and fix bugs
 
+## Practice and Projects
+> Solve problems on platforms like LeetCode and HackerRank
 
+> Work on small projects to apply what you’ve learned
 
-
+> Use debugging tools like gdb and valgrind to find and fix bugs
 
 
 Improving your problem-solving skills in C involves a combination of practice, understanding fundamental concepts, and applying effective strategies. Here are some steps to help you enhance your skills:
