@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/kali/Desktop/LoneDevWolf/ScriptFiles/C-Scripts",
-      "program": "/home/kali/Desktop/LoneDevWolf/ScriptFiles/C-Scripts/build/Debug/outDebug",
+      "cwd": "/home/kali/Desktop/Wolf/C-Scripts",
+      "program": "/home/kali/Desktop/Wolf/C-Scripts/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
